@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Knowledge Base
+    url: https://help.zivid.com
+    about: Documentation about Zivid cameras and software
+  - name: Contact
+    url: https://www.zivid.com/contact
+    about: Contact the Customer Success team
